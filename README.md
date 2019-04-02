@@ -25,6 +25,7 @@ not listed here, consider filling an issue or writing me an email and I’ll add
 * B450 TOMAHAWK
 * H270 MORTAR ARCTIC
 * H270 TOMAHAWK ARCTIC
+* X370 SLI PLUS
 * X470 GAMING PLUS
 * X470 GAMING PRO
 * Z270 SLI PLUS
